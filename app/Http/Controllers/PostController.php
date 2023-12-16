@@ -8,6 +8,6 @@ class PostController extends Controller
 {
     public function __invoke()
     {
-        return 'posts222';
+        return 'posts';
     }
 }
