@@ -8,6 +8,6 @@ class PostController extends Controller
 {
     public function index()
     {
-        return 'posts';
+        return 'posts222';
     }
 }
