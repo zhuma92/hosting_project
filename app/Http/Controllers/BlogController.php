@@ -8,6 +8,6 @@ class BlogController extends Controller
 {
     public function __invoke()
     {
-        return 'blogs';
+        return 'blogs88';
     }
 }
